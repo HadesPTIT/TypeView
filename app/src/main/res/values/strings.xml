@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TypeView</string>
+    <string name="clear"><![CDATA[<]]></string>
+    <string name="back_space">x</string>
+    <string name="text_circle">•</string>
 </resources>
