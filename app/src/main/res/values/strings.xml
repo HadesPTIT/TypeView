@@ -3,4 +3,5 @@
     <string name="clear"><![CDATA[<]]></string>
     <string name="back_space">x</string>
     <string name="text_circle">•</string>
+    <string name="link">https://i.ytimg.com/vi/BMeNMdLMVN0/maxresdefault.jpg</string>
 </resources>
