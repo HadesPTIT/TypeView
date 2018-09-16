@@ -20,11 +20,5 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void validatePasscode(Passcode passcode) {
 
-    }
-
-    public void updatePassCode(String value) {
-
-    }
 }
